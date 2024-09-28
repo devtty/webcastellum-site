@@ -8,4 +8,4 @@ permalink: /
 
 # Hello
 
-lor
+lore
