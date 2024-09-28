@@ -8,6 +8,10 @@ url: "https://www.webcastellum.org" # the base hostname & protocol for your site
 twitter_username: dev_tty
 github_username:  devtty
 
+style: light
+
+footer: 'footer'
+
 # Build settings
 markdown: kramdown
 permalink: /:year/:title:output_ext
