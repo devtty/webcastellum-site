@@ -24,3 +24,5 @@ header_pages:
 aux_links:
   "WebCastellum on GitHub":
     - "//github.com/devtty/webcastellum"
+  "WebCastellum on SourceForge":
+    - "//sourceforge.net/projects/webcastellum/"
