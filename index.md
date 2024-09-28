@@ -4,8 +4,6 @@ layout: home
 permalink: /
 ---
 
-# TEST
+# WebCastellum
 
-# Hello
-
-lore
+work in progress
