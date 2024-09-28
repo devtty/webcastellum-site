@@ -20,3 +20,7 @@ remote_theme: just-the-docs/just-the-docs
 
 header_pages:
   - index.md
+
+aux_links:
+  "WebCastellum on GitHub":
+    - "//github.com/devtty/webcastellum"
