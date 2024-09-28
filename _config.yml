@@ -26,3 +26,5 @@ aux_links:
     - "//github.com/devtty/webcastellum"
   "WebCastellum on SourceForge":
     - "//sourceforge.net/projects/webcastellum/"
+
+logo: "/assets/images/webcas.png"
