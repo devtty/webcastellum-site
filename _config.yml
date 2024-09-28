@@ -16,7 +16,7 @@ footer: 'footer'
 markdown: kramdown
 permalink: /:year/:title:output_ext
 
-remote_theme: b2a3e8/jekyll-theme-console
+remote_theme: just-the-docs/just-the-docs
 
 header_pages:
   - index.md
